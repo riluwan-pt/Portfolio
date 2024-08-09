@@ -125,4 +125,25 @@ position: relative;
   box-shadow: 0 10px 20px var(--main--color);
 }
 
+#name{
+  background-color:rgb(74, 38, 75) ;
+  border-color: var(--main--color);
+  color: white;
+} 
 
+#email{
+  background-color:rgb(74, 38, 75) ;
+  border-color: var(--main--color);
+  color: white;
+}
+
+#subject{
+  background-color:rgb(74, 38, 75) ;
+  border-color: var(--main--color);
+  color: white;
+}
+#message{
+  background-color:rgb(74, 38, 75) ;
+  border-color: var(--main--color);
+  color: white;
+}
